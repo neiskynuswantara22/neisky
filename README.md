@@ -171,3 +171,4 @@ Skripsi Mukti is a web application that can be used to manage the data of theses
     ```bash
     python manage.py runserver
     ```
+# skripsineisky
